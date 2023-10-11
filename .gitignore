@@ -1,0 +1,5 @@
+/dist
+/targets
+*.o
+a.out
+node-v*.tar.gz
